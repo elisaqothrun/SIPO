@@ -1,5 +1,5 @@
 <h2> Data Produk </h2>
-<p><a href="index.php?halaman=tambahproduk" class="btn btn-primary">Tambah Produk Baru</a>
+<p><a href="index.php?halaman=tambahbarang" class="btn btn-primary">Tambah Barang Baru</a>
 </p>
 
 <table class= "table table-bordered">
